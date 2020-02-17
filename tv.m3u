@@ -1,0 +1,277 @@
+
+#EXTM3U
+
+########################################################### INDONESIA ###################################################
+
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="INDONESIA", RCTI (opt-1)
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="INDONESIA", RCTI (opt-2)
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC (opt-1)
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC (opt-2)
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC (opt-3)
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV (opt-1)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV (opt-2)
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV (opt-3)
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="INDONESIA",SCTV (opt-1)
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="INDONESIA",SCTV (opt-2)
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-3)
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA",INDOSIAR (opt-1)
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA", INDOSIAR (opt-2)
+http://rr2.dens.tv/s/s04/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA", INDOSIAR (opt-3)
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-1)
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-2)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",Trans 7 (Opt-3)
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",TRANS TV (opt-1)
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-2)
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA",Trans Tv (opt-3)
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="INDONESIA",Rajawali TV (Opt-4)
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1,RTV
+http://210.210.155.35/session/b2ef92ee-e21d-11e9-be18-c81f66f89318/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RTV HD
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV (Opt-3)
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",NET HD
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA", ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA", ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+ 
+
+#EXTINF:-1,TV ONE HD
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA", TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="INDONESIA",DAAI TV (Opt-1)
+http://45.126.83.51/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="INDONESIA",DAAI TV (Opt-2)
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+########################################################### BERITA ###################################################
+
+
+#EXTINF:-1,  Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+ 
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="Berita",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png?v=1.0.0.0" group-title="Berita",Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="Berita",iNews TV
+http://202.80.222.130/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+
+#EXTINF:-1,INEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBz0XfPZ/bsword.png" group-title="Berita",Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w2S4Pmp/jakartaglobe.png" group-title="Berita",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lx2s21Z/cnbcind.png" group-title="Berita",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+ 
+
+########################################################### KIDS ################################################### 
+
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqVvKPfV/animax.png" group-title="KIDS",Animax
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/disneyjunior.png" group-title="KIDS",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N8SznXZ/toonmax.png" group-title="KIDS",Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kids" tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",My Kids
+ 
+#EXTINF:-1 tvg-id="ANIMAX ID" tvg-name="" tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+  
+ 
+#EXTINF:-1 tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="KIDS", NONSTOP ANIME
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 group-title="KIDS",BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+ 
+
+ 
+#EXTINF:-1 group-title="KIDS", MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8 
+
+
+########################################################### HIBURAN ###################################################
+
+ 
+#EXTINF:-1 group-title="Hiburan",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="Hiburan",Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1,UFC
+https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SABUNG AYAM
+https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CTN
+https://1468481365.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MY TV
+https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNC
+https://1468481365.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PAANGANG
+https://m.vidio.com/videos/1515214/vjs_playlist.m3u8
+#EXTINF:-1,KEHILANGAN
+https://m.vidio.com/videos/1796400/vjs_playlist.m3u8
+#EXTINF:-1,HARUSKAH BERAKHIR
+https://m.vidio.com/videos/1790080/vjs_playlist.m3u8
+
+
+#EXTINF:-1,MOVIES 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1,MBC HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1,MIX HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1,MBC BOLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1,LOTUS
+http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
+#EXTINF:-1,CHINA GHOST
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1,FILM
+https://edge-1282-ch-gv.filmon.com/live/3071.low.stream/playlist.m3u8
+
+#EXTINF:-1,KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1,DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1,KARAOKE DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1,MALEO
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,POP MUSIK
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 4
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",HOLLYWOOD MOVIES 6
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",Rai Movie HD (Italy)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="MOVIE",Rai Premium HD (Italy)
+http://bit.ly/tsptv-movie-4
+#EXTINF:-1 group-title="MOVIE",Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="MOVIE",Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="MOVIE",Jet Lie Movies
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+
+
+
+#EXTINF:0, group-title="INDIA", HOTEL MUMBAI
+https://cdn.apidev.icu/drive/index.php?id=OGVy2sbaIc4qMmEASmAQAg7uGFjfTpiXQK4MI7HlRrYs0ox94iccDXNf8bUDlUXmliYphDkRgefCHs%2F3E%2FwWrRfBXcRvTFIBRqGEkuPzrv3Bx%2FZoIQWxMnT7PgvQkXp3jTfK1DfoIgnGj%2FP1iIO7FvW4WpeyS%2BdHSpSL7PxL04F5Tvm1%2BaJrlVEENu%2Bcdr46eF56d%2F3IN%2Fh5dIRDieAIlj&ref=https%3A%2F%2Fwww.zenomovie.com%2Fhotel-mumbai-2018-zytx%2F&res=default
+
+
+
+#EXTINF:0, group-title="INDIA", Aadai
+https://cdn.clonefile.icu/drive/index.php?id=XW%2B1HdgBR7K3FF5lNRyHGgUgnWgs3%2F5pU%2B2MEKZOsNV7ZLzY3fbquKGG9J8GYoX0s4uPGtXKeLcPEY5P8bXi7NTDGpJz3oO1YboSJ6rcMgnMDeAsn0uBnS8sl0Db5y3zC2AWw9hNXccMbEuONUQ8RstsBban2nymrKDLiGoSu%2FJfTfYQxMiIRHM5NiK9989OgBwgDaVFmp4EECBXIOUorT%2Fv8iq7zkkicOPqqfyPq0N1YXheYriar3Wijy1Jg5xHQ0xsGZPjaSAuZO0yprsz%2BRqxAznmwHmkCUEI6cs3d0xhZ3Fu3ghfDpHT79f8GK1wNXK2oJQWdqgNmn83enrG4vcgYAbSANcu%2FJ8w94EVY5xyCSUK7gGQ7%2FhLVhH4zue%2B2mUxCC3938sJGtBKeVnv7eslTwa8DC%2BeubVCHCOkwuDOPOa9Zhm5cu7BjY6Yi1f8ouuGIhVEzO3pca2tvkq53iW4EtYW%2BgVLq1g3lbtDWniPm4ks07092Fybw5SYt6m1f%2FhnbjUHP%2BVtWUlrXVciOn6P2zQ%2BbzQBLKGyVWJN3Awo23Cu5BKpkU1AWPmoUoAy%2FH5JF9d2V%2BQc6LO2shT62Nz07jmQPqHBDunnC%2B9aKLGGEC2dS9zawnboh3QXyXCdkofXnaujxrF8%2BVdNQjV1v83oM%2BIv%2FzO4WLuVrK9UfhPftfLw0L2rB%2BIwBBTMUgUxE%3D&ref=https%3A%2F%2Fwww.zenomovie.com%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253DI820MR2BUtW9JDc4qRDk6gzM4Gy2mk04OL5y6bgKcTzlYJw2fxTcb5zjgGc7ig5ruB4t%2525252Bp9JnWNBV9XjQ7OxVrXhoZY6WbgBGU%2525252BQ13Co8Uuf3gpvaladr6wExQ275Qtr9EwwiboC7hDmXKjiB7AS5ZbyCHOdKWeWB7AWu5gjcR8N1uOgTxFdqBDWrQ%2525252B4iZfOCpLMaGiXh%2525252FZ1C7IDky0frnorD4jXddli%2525252F%2525252F0PNBXFXpFw%2525253D%2525253D&res=default
+
+
